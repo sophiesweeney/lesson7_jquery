@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 29, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Sophie Sweeney)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we built an application that displays a list when clicking on a colored header.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://sophiesweeney.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use basic jquery elements, like changing the colors.
+2. How to respond to users requests using jquery.
+3. How to a script element that references a jquery file.
 
